@@ -1,33 +1,23 @@
-# react-tailwind-portfolio
-
-👨‍🎨 An open-source portfolio template built with React and Tailwind.
-
-![Open React template preview](./demo.png)
-
-Made with 💙 by [Brayden W](https://braydentw.github.io).
-
-## Live demo
-
-Check out the live demo here 👉️ https://react-tailwind-portfolio.braydentw.vercel.app/
+# santhosh-muthu-portfolio
 
 ## Table of contents
 
-* [Usage](#usage)
-  * [Available Scripts](#available-scripts)
-    * [npm start](#npm-start)
-    * [npm test](#npm-test)
-    * [npm run build](#npm-run-build)
-    * [npm run eject](#npm-run-eject)
-  * [Learn More](#learn-more)
-    * [Code Splitting](#code-splitting)
-    * [Analyzing the Bundle Size](#analyzing-the-bundle-size)
-    * [Making a Progressive Web App](#making-a-progressive-web-app)
-    * [Advanced Configuration](#advanced-configuration)
-    * [Deployment](#deployment)
-    * [npm run build fails to minify](#npm-run-build-fails-to-minify)
-  * [Google Analytics Setup](#google-analytics-setup)
-* [Terms and License](#terms-and-license)
-* [About Me](#about-me)
+- [Usage](#usage)
+  - [Available Scripts](#available-scripts)
+    - [npm start](#npm-start)
+    - [npm test](#npm-test)
+    - [npm run build](#npm-run-build)
+    - [npm run eject](#npm-run-eject)
+  - [Learn More](#learn-more)
+    - [Code Splitting](#code-splitting)
+    - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+    - [Making a Progressive Web App](#making-a-progressive-web-app)
+    - [Advanced Configuration](#advanced-configuration)
+    - [Deployment](#deployment)
+    - [npm run build fails to minify](#npm-run-build-fails-to-minify)
+  - [Google Analytics Setup](#google-analytics-setup)
+- [Terms and License](#terms-and-license)
+- [About Me](#about-me)
 
 ## Usage
 
@@ -38,6 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 #### `npm install`
+
 To install the dependencies package.
 
 #### `npm start`
@@ -114,11 +105,3 @@ In order to track visitors, you need to set an [environment variable](https://cr
 - Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
 - Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
 - Attribution is not required, although it is really appreciated.
-
----
-
-### Like my work?
-
-<a href="https://www.buymeacoffee.com/braydenw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" ></a>
-
-Made by [@BraydenTW](https://github.com/braydentw)
