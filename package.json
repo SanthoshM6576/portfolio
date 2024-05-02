@@ -2,7 +2,7 @@
   "name": "santhosh-portfolio",
   "description": "Protfolio Website to show casing Experience.",
   "version": "0.1.0",
-  "homepage": "index.html",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
